@@ -31,4 +31,5 @@ Project Purpose
 To learn API integration, asynchronous JavaScript, and dynamic DOM manipulation.
 
 Author
+
 Dheeraj Perla 
